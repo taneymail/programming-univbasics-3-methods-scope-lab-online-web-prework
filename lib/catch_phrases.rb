@@ -11,4 +11,4 @@ def toadstool
 end
 
 def link
-  
+  status = ''
